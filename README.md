@@ -1,4 +1,4 @@
-### Hey 👋🏽 , I'm [Aswan Abidin!](https://github.com/aswanabidin) 
+### Hey 👋🏽 , I'm [Aswan!](https://github.com/aswanabidin) 
 
 <a href="https://twitter.com/aswanabidin">
   <img align="left" alt="aswanabidin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
