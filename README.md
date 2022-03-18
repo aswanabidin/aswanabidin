@@ -19,6 +19,8 @@
 <br/>
 Hi, I'm Aswan as an Software Engineer especially Android Engineer from Indonesia. Currently I mainly work with Kotlin and Java. 
 
+<br/>
+<br/>
   
 **Talking about Personal Stuffs:**
 
@@ -44,3 +46,6 @@ Hi, I'm Aswan as an Software Engineer especially Android Engineer from Indonesia
 ![Aswan Abidin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanabidin&layout=compact)
 
 ![Aswan Abidin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aswanabidin)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
