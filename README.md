@@ -40,12 +40,17 @@ Hi, I'm Aswan as an Software Engineer especially Android Engineer from Indonesia
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+**Total Code Time Badge:**
 
-![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&hide_border=true)
+![Aswan Abidin's total code time badge](https://wakatime.com/badge/user/2cfd6f7d-ce59-4e65-a8ba-18c9e0eefe3f.svg)
 
-![Aswan Abidin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanabidin&layout=compact)
+**WakaTime:**
 
-![Aswan Abidin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aswanabidin)
+![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&theme=dark)
+
+![Aswan Abidin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanabidin&layout=compact&theme=radical)
+
+![Aswan Abidin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aswanabidin&theme=radical)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
