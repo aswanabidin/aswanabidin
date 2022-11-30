@@ -22,7 +22,7 @@ Hi, I'm Aswan as an Software Engineer especially Android Engineer from Indonesia
 <br/>
 <br/>
   
-**Talking about Personal Stuffs:**
+**Talking about personal stuff:**
 
 - 💻 &nbsp; I’m currently working on [Kitabisa.com](https://kitabisa.com/);
 - 🌱 &nbsp; I’m currently learning SwiftUI, Dart, Python and Golang; 
