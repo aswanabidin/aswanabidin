@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/aswanabidin/">
   <img align="left" alt="aswanabidin LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
-<a href="https://www.instagram.com/aswanabdn/">
+<a href="https://www.instagram.com/aswanabidin/">
   <img align="left" alt="aswanabidin Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" />
 </a>
 <a href="https://dribbble.com/aswanabidin">
