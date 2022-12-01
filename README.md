@@ -26,10 +26,12 @@ I'm an experienced software engineer who constantly seeks out innovative solutio
   
 **Talking about personal stuff:**
 
-- 💻 &nbsp; I’m currently working on [Kitabisa.com](https://kitabisa.com/);
-- 🌱 &nbsp; I’m currently learning SwiftUI, Dart, Python and Golang; 
+- 💻 &nbsp; I’m currently working on [Kitabisa](https://kitabisa.com/) and [Qaaf Muslim](https://qaafmuslim.com);
+- 🌱 &nbsp; I’m currently learning KMM (Kotlin Multi Platform), SwiftUI, Dart, Python and Golang; 
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; How to reach me: aswanabidin16@gmail.com;
+
+<br/>
 
 **Languages and Tools:**  
 
@@ -42,15 +44,25 @@ I'm an experienced software engineer who constantly seeks out innovative solutio
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<br/>
+
 **Total Code Time Badge:**
 
 ![Aswan Abidin's total code time badge](https://wakatime.com/badge/user/2cfd6f7d-ce59-4e65-a8ba-18c9e0eefe3f.svg)
 
-**WakaTime:**
+**Github Stats:**
 
 ![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&theme=dark)
 
+<br/>
+
+**Mosed Used Programming Languages:**
+
 ![Aswan Abidin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanabidin&layout=compact&theme=radical)
+
+<br/>
+
+**Wakatime Stats:**
 
 ![Aswan Abidin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aswanabidin&theme=radical)
 
