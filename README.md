@@ -1,4 +1,4 @@
-### Hey 👋🏽 , I'm [Aswan!](https://github.com/aswanabidin) 
+### Hi 👋🏽 , I'm [Aswan!](https://github.com/aswanabidin) 
 
 <a href="https://twitter.com/aswanabidin">
   <img align="left" alt="aswanabidin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,8 +17,10 @@
 </a>
 <br/>
 <br/>
-Hi, I'm Aswan as an Software Engineer especially Android Engineer from Indonesia. Currently I mainly work with Kotlin and Java. 
 
+Hi, I'm Aswan as a Software Engineer.
+<br/>
+I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. In my five years in this tech industry, I've honed my analytical thinking and collaboration skills with other department, and I love working with a team. I've also had the opportunity to serve as the software engineer lead for more freelance projects.
 <br/>
 <br/>
   
