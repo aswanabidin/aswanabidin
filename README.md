@@ -50,7 +50,7 @@ I'm an experienced software engineer who constantly seeks out innovative solutio
 
 ![Aswan Abidin's total code time badge](https://wakatime.com/badge/user/2cfd6f7d-ce59-4e65-a8ba-18c9e0eefe3f.svg)
 
-**Github Stats:**
+<!--**Github Stats:**-->
 
 <!--![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&theme=dark)-->
 
