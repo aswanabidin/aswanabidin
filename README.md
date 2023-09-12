@@ -52,7 +52,7 @@ I'm an experienced software engineer who constantly seeks out innovative solutio
 
 **Github Stats:**
 
-![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&theme=dark)
+<!--![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&theme=dark)-->
 
 <br/>
 
