@@ -27,7 +27,7 @@ I'm an experienced software engineer who constantly seeks out innovative solutio
 **Talking About Personal Stuff:**
 
 - 💻 &nbsp; I’m currently working on [Kitabisa](https://kitabisa.com/) and [Qaaf Muslim](https://qaafmuslim.com);
-- 🌱 &nbsp; I’m currently learning KMM (Kotlin Multi Platform), SwiftUI, Dart, Python and Golang; 
+- 🌱 &nbsp; I’m currently learning Kotlin Multiplatform, Compose Multiplatform, SwiftUI, Dart, Python and Golang; 
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; How to reach me: aswanabidin16@gmail.com;
 
