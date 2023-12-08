@@ -1,21 +1,5 @@
 ### Hi 👋🏽 , I'm [Aswan!](https://github.com/aswanabidin) 
 
-<a href="https://twitter.com/aswanabidin">
-  <img align="left" alt="aswanabidin | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />
-</a>
-<a href="https://www.linkedin.com/in/aswanabidin/">
-  <img align="left" alt="aswanabidin LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
-</a>
-<a href="https://www.instagram.com/aswanabidin/">
-  <img align="left" alt="aswanabidin Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" />
-</a>
-<a href="https://dribbble.com/aswanabidin">
-  <img align="left" alt="aswanabidin Dribbble" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670074.png" />
-</a>
-<a href="https://www.behance.net/aswanabidin">
-  <img align="left" alt="aswanabidin Behance" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504762.png" />
-</a>
-<br/>
 <br/>
 
 Hi, I'm Aswan as a Software Engineer.
