@@ -10,8 +10,9 @@ I'm an experienced software engineer who constantly seeks out innovative solutio
   
 **Talking About Personal Stuff:**
 
-- 💻 &nbsp; I’m currently working on [Qaaf Muslim](https://qaafmuslim.com);
-- 🌱 &nbsp; I’m currently learning Kotlin Multiplatform, Compose Multiplatform, SwiftUI, Dart, Python and Golang; 
+- 💻 &nbsp; I’m currently working on [Kitabisa.com](https://play.google.com/store/apps/details?id=com.kitabisa.android&hl=id);
+- 💻 &nbsp; I have one application that was published on Play Store, I called [Qaaf Muslim](https://play.google.com/store/apps/details?id=com.mumtaazstudio.qaaf_muslim&hl=id);
+- 🌱 &nbsp; I’m currently learning Kotlin Multiplatform, Compose Multiplatform, SwiftUI, and Python; 
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; How to reach me: aswanabidin16@gmail.com;
 
