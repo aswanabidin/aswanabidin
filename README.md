@@ -4,16 +4,16 @@
 
 Hi, I'm Aswan as a Software Engineer.
 <br/>
-I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. In my five years in this tech industry, I've honed my analytical thinking and collaboration skills with other department, and I love working with a team. I've also had the opportunity to serve as the software engineer lead for more freelance projects.
+I'm a passionate Software Engineer who loves building impactful digital products and finding innovative solutions to real-world problems. With over seven years of experience in the tech industry, I’ve developed strong analytical thinking, cross-functional collaboration, and team leadership skills. I’ve also had the opportunity to lead several freelance software projects, driving them from concept to launch.
 <br/>
 <br/>
   
-**Talking About Personal Stuff:**
+**🌟 A Bit About Me:**
 
-- 💻 &nbsp; I have one application that was published on Play Store, I called [Qaaf Muslim](https://play.google.com/store/apps/details?id=com.mumtaazstudio.qaaf_muslim&hl=id);
-- 🌱 &nbsp; I’m currently learning Kotlin Multiplatform, Compose Multiplatform, SwiftUI, and Python; 
-- 💬 &nbsp; Ask me about anything, I am happy to help;
-- 📫 &nbsp; How to reach me: aswanabidin16@gmail.com;
+- 💻 &nbsp; I’m the creator of [Qaaf Muslim](https://play.google.com/store/apps/details?id=com.mumtaazstudio.qaaf_muslim&hl=id), a mobile app available on the Play Store.
+- 🌱 &nbsp; Currently exploring Kotlin Multiplatform, Compose Multiplatform, SwiftUI, Python, and the world of AI Agents blending the vibe of coding with intelligent automation.
+- 💬 &nbsp; Always open to discuss anything about software development — happy to help and share ideas!
+- 📫 &nbsp; Reach me at: aswanabidin16@gmail.com.
 
 <br/>
 
